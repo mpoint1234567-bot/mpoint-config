@@ -2,20 +2,20 @@
   "notices": [
     {
       "enabled": true,
-      "title": "Gym Closed Saturday",
-      "message": "Train Health and Fitness Gym will remain closed on Saturday.",
+      "title": "Man without healthy food and exercise",
+      "message": "Unhealthy habits todavlead to a weaker, tiredand unhappy tomorrow.",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice1.png"
     },
     {
       "enabled": true,
-      "title": "New Schedule",
-      "message": "New workout schedule starts next week.",
+     "title": "Man with healthy food but no exercise",
+      "message": "Eating healthy is important, but without exercise vour bod won't transform. You're missing the other half.",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice2.png"
     },
     {
-      "enabled": false,
-      "title": "Old Notice",
-      "message": "This notice is currently disabled.",
+      "enabled": true,
+      "title": "Man with healthy food but no exercise",
+      "message": "The perfect combination for a stronger body, better health and a happier life.",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice3.png"
     }
   ],
@@ -25,10 +25,10 @@
       "enabled": true,
       "title": "Opening Offer",
       "message": "10% OFF for the opening of the gym.",
-      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer1.png"
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer.png"
     },
     {
-      "enabled": true,
+      "enabled": false,
       "title": "Membership Offer",
       "message": "Special membership offer.",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer2.png"
