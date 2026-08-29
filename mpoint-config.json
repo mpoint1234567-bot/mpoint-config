@@ -2,11 +2,13 @@
   "notice": {
     "enabled": true,
     "title": "Important Notice",
-    "message": "Gym will remain closed on Sunday."
+    "message": "Gym will remain closed on Sunday.",
+    "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice.jpg"
   },
   "offer": {
     "enabled": true,
     "title": "Special Offer",
-    "message": "20% OFF membership this month."
+    "message": "20% OFF membership this month.",
+    "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer.jpg"
   }
 }
