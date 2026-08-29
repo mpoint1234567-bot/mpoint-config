@@ -43,12 +43,12 @@
     },
     {
       "enabled": true,
-      "title": "High Protein Meals",
+      "title": "High Protein lunch",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/cookbook2.png"
     },
     {
       "enabled": true,
-      "title": "Healthy Lunch",
+      "title": "Healthy dinnr",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/cookbook3.png"
     },
     {
