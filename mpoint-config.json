@@ -1,14 +1,14 @@
 {
   "notice": {
     "enabled": true,
-    "title": "dfasdfImportant Notice",
-    "message": "dsfsadGym will ddddddd remain closed on Sunday.",
+    "title": "dfasdfgfdsgfImportant Notice",
+    "message": "dsfsadGym wfgsdgill ddddddd remain closed on Sunday.",
     "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice.png"
   },
   "offer": {
     "enabled": true,
-    "title": "sdfasdSpecial Offer",
-    "message": "dsfasd20% OFFdddddddddd membership this month.",
+    "title": "sdfasdSpecifgsfdal Offer",
+    "message": "dsfasd20% fgdsgOFFdddddddddd membership this month.",
     "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer.png"
   }
 }
