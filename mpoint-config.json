@@ -1,14 +1,60 @@
 {
-  "notice": {
-    "enabled": true,
-    "title": "Important Notice",
-    "message": "Gym will remain closed on Sunday.",
-    "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice.png"
-  },
-  "offer": {
-    "enabled": true,
-    "title": "Special Offer",
-    "message": "20% OFF membership this month.",
-    "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer.png"
-  }
+  "notices": [
+    {
+      "enabled": true,
+      "title": "Gym Closed Saturday",
+      "message": "Train Health and Fitness Gym will remain closed on Saturday.",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice1.png"
+    },
+    {
+      "enabled": true,
+      "title": "New Schedule",
+      "message": "New workout schedule starts next week.",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice2.png"
+    },
+    {
+      "enabled": false,
+      "title": "Old Notice",
+      "message": "This notice is currently disabled.",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice3.png"
+    }
+  ],
+
+  "offers": [
+    {
+      "enabled": true,
+      "title": "Opening Offer",
+      "message": "10% OFF for the opening of the gym.",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer1.png"
+    },
+    {
+      "enabled": true,
+      "title": "Membership Offer",
+      "message": "Special membership offer.",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer2.png"
+    }
+  ],
+
+  "cookbooks": [
+    {
+      "enabled": true,
+      "title": "Healthy Breakfast",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/cookbook1.png"
+    },
+    {
+      "enabled": true,
+      "title": "High Protein Meals",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/cookbook2.png"
+    },
+    {
+      "enabled": true,
+      "title": "Healthy Lunch",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/cookbook3.png"
+    },
+    {
+      "enabled": true,
+      "title": "Healthy Dinner",
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/cookbook4.png"
+    }
+  ]
 }
