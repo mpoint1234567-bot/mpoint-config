@@ -25,7 +25,7 @@
       "enabled": true,
       "title": "Opening Offer",
       "message": "10% OFF for the opening of the gym.",
-      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer.png"
+      "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/offer1.png"
     },
     {
       "enabled": false,
@@ -52,7 +52,7 @@
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/cookbook3.png"
     },
     {
-      "enabled": true,
+      "enabled": false,
       "title": "Healthy Dinner",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/cookbook4.png"
     }
