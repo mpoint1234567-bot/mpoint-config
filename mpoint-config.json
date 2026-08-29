@@ -1,0 +1,12 @@
+{
+  "notice": {
+    "enabled": true,
+    "title": "Important Notice",
+    "message": "Gym will remain closed on Sunday."
+  },
+  "offer": {
+    "enabled": true,
+    "title": "Special Offer",
+    "message": "20% OFF membership this month."
+  }
+}
