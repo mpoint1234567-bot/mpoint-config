@@ -3,13 +3,13 @@
     {
       "enabled": true,
       "title": "Man without healthy food and exercise",
-      "message": "Unhealthy habits todavlead to a weaker, tiredand unhappy tomorrow.",
+      "message": "Unhealthy habits today lead to a weaker, tiredand unhappy tomorrow.",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice1.png"
     },
     {
       "enabled": true,
      "title": "Man with healthy food but no exercise",
-      "message": "Eating healthy is important, but without exercise vour bod won't transform. You're missing the other half.",
+      "message": "Eating healthy is important, but without exercise your body won't transform. You're missing the other half.",
       "image": "https://raw.githubusercontent.com/mpoint1234567-bot/mpoint-config/refs/heads/main/notice2.png"
     },
     {
